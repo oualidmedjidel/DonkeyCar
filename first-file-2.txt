@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 modif
 why not?
 sure
+=======
+Encore encore une modification 
+>>>>>>> 7b55ab2c7e242999abc6beaeeb3e2633db1d8324
