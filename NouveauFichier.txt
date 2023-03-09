@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+
+
+ok ok 
+=======
+azerty
+ bla bla
+popopo
+>>>>>>> refs/remotes/origin/feat/member-.4

@@ -1,2 +1,14 @@
+
+
 test test
-premiere modificationTralalilou
+premiere modificationbanana
+modification oualid
+fraise
+
+<<<<<<< HEAD
+
+
+
+tomate
+=======
+>>>>>>> refs/remotes/origin/feat/member-.4
